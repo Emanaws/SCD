@@ -1,0 +1,11 @@
+{
+	"name": "LS_SQL",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=staccnt;AccountKey=DAhOs6D18Eg+1j8SPeILmyVhP5p9ksphmH+/u38u8Q4b4ik7dvN9MoCWVzKXRiJh824/xjiT3PtDAoib1tISUA==;EndpointSuffix=core.windows.net"
+		}
+	}
+}
